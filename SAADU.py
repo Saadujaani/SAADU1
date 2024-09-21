@@ -1,2 +1,2 @@
-from SAADU1 import menu
+from SAADU import menu
 menu()
