@@ -1,2 +1,2 @@
-from SAADU1 import key
+from SAADU import key
 key()
