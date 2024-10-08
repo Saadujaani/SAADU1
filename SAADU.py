@@ -1,2 +1,2 @@
-from SAADU import key
-key()
+from SAADU import menu
+menu()
