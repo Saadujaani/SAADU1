@@ -1,2 +1,2 @@
-from SAADU import superuser
-superuser()
+from SAADU import menu
+menu()
